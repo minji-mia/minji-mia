@@ -9,6 +9,14 @@
 <a href="https://minji-mia.com/" target="_blank">
 <img src=https://img.shields.io/badge/-Portfolio-%23F6A31B?style=flat&logo=Portfolio" />
 </a>
+<a href="mailto:minjikim.cs@gmail.com">
+<img src=https://img.shields.io/badge/Email-minjikim.cs%40gmail.com-blue?logo=gmail />
+</a>                                                                                     
+
+
+- 📫 How to reach me: minjikim.cs@gmail.com
+
+<a href="mailto:minjikim.cs@gmail.com">minjikim.cs@gmail.com</a>
 <!--
 **minji-mia/minji-mia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
