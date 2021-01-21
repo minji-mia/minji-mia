@@ -1,16 +1,16 @@
-## Hey 👋, I'm Minji Kim! 👩‍💻
+## Hi there 👋, I'm Minji Kim! 👩‍💻
 
 <a href="https://www.linkedin.com/in/minji-mia/?locale=en_US" target="_blank">
-<img src=https://img.shields.io/badge/Linkedin-%231E77B5.svg??style=flat&logo=linkedin&logoColor=white%20alt=linkedin%20style=%22margin-bottom:%205px;" />
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
 </a> 
 <a href="https://github.com/minji-mia" target="_blank">
-<img src=https://img.shields.io/badge/Github-%2324292e.svg?style=flat&logo=github&logoColor=white%20alt=github%20style=%22margin-bottom:%205px;%22" />
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white />
 </a>
 <a href="https://minji-mia.com/" target="_blank">
-<img src=https://img.shields.io/badge/Website-minji--mia.com-brightgreen?labelColor=black />
+<img src=https://img.shields.io/badge/Portfolio-minji--mia.com-brightgreen?style=for-the-badge&logoColor=white />
 </a>
 <a href="mailto:minjikim.cs@gmail.com">
-<img src=https://img.shields.io/badge/Email-minjikim.cs%40gmail.com-orange?logo=gmail&labelColor=black />
+<img src=https://img.shields.io/badge/Gmail-minjikim.cs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white />
 </a>
 
 <img src="https://github-readme-stats.minji-mia.vercel.app/api?username=minji-mia&show_icons=true&count_private=true&hide_border=true%22%20align=%22left%22%20style=%22width:%20100%&theme=highcontrast" align="center" style="width: 100%" />
