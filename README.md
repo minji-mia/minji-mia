@@ -1,4 +1,11 @@
-### Hey 👋, I'm Minji Kim!
+## Hey 👋, I'm Minji Kim!
+
+<a href="https://github.com/minji-mia" target="_blank">
+<img src=https://img.shields.io/badge/Github-%2324292e.svg?style=flat&logo=github&logoColor=white%20alt=github%20style=%22margin-bottom:%205px;%22" />
+</a>
+<a href="https://www.linkedin.com/in/minji-mia/?locale=en_US" target="_blank">
+<img src=https://img.shields.io/badge/Linkedin-%231E77B5.svg??style=flat&logo=linkedin&logoColor=white%20alt=linkedin%20style=%22margin-bottom:%205px;" />
+</a> 
 
 <!--
 **minji-mia/minji-mia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
