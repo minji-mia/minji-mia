@@ -6,6 +6,9 @@
 <a href="https://github.com/minji-mia" target="_blank">
 <img src=https://img.shields.io/badge/Github-%2324292e.svg?style=flat&logo=github&logoColor=white%20alt=github%20style=%22margin-bottom:%205px;%22" />
 </a>
+<a href="https://minji-mia.com/" target="_blank">
+<img src=https://img.shields.io/badge/-Portfolio-%23F6A31B?style=flat&logo=Portfolio" />
+</a>
 <!--
 **minji-mia/minji-mia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
