@@ -11,8 +11,9 @@
 </a>
 <a href="mailto:minjikim.cs@gmail.com">
 <img src=https://img.shields.io/badge/Email-minjikim.cs%40gmail.com-orange?logo=gmail&labelColor=black />
-</a>                                                                                     
+</a>
 
+<img src=https://github-readme-stats.vercel.app/api?username=minji-mia&show_icons=true&count_private=true&hide_border=true%22%20align=%22left%22%20style=%22width:%20100%&theme=highcontrast align="center" style="width: 100%" />
 <!--
 **minji-mia/minji-mia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
