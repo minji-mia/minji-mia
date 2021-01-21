@@ -18,9 +18,11 @@
 Glad to see you here! I am completing a Master of Science in Computer Science with a graduation date of May 2021. Also, I am developing my Master’s thesis focused on improving network security using deep learning models to identify cyberattacks.
 
 <br/>
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and play boardgames
 
+- 🌱 I’m currently learning everything 🤣
+
+- ⚡ Fun fact: I love to draw and play boardgames
+<br/>
 ### 💻 Languages and Tools:
 
 
