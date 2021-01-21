@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/Gmail-minjikim.cs%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white />
 </a>
 
-<br/>
+<br />
 
 Glad to see you here! I am completing a Master of Science in Computer Science with a graduation date of May 2021. Also, I am developing my Master’s thesis focused on improving network security using deep learning models to identify cyberattacks.
 
@@ -21,6 +21,7 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 
 - ⚡ Fun fact: I love to draw and play boardgames
 
+<br />
 
 ### 💻 Languages and Tools
 
@@ -39,22 +40,8 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br/>
+<br />
 
 ### 🌟 Github Status
 
 <img src="https://github-readme-stats.minji-mia.vercel.app/api?username=minji-mia&show_icons=true&count_private=true&hide_border=true%22%20align=%22left%22%20style=%22width:%20100%&theme=highcontrast" align="center" style="width: 100%" />
-
-<!--
-**minji-mia/minji-mia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
