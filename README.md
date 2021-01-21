@@ -10,7 +10,7 @@
 <img src=https://img.shields.io/badge/Website-minji--mia.com-brightgreen?labelColor=black />
 </a>
 <a href="mailto:minjikim.cs@gmail.com">
-<img src=https://img.shields.io/badge/Email-minjikim.cs%40gmail.com-blue?logo=gmail&labelColor=black />
+<img src=https://img.shields.io/badge/Email-minjikim.cs%40gmail.com-orange?logo=gmail&labelColor=black />
 </a>                                                                                     
 
 <!--
