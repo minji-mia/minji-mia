@@ -7,16 +7,12 @@
 <img src=https://img.shields.io/badge/Github-%2324292e.svg?style=flat&logo=github&logoColor=white%20alt=github%20style=%22margin-bottom:%205px;%22" />
 </a>
 <a href="https://minji-mia.com/" target="_blank">
-<img src=https://img.shields.io/badge/-Portfolio-%23F6A31B?style=flat&logo=Portfolio" />
+<img src=https://img.shields.io/badge/Website-minji--mia.com-brightgreen?labelColor=black />
 </a>
 <a href="mailto:minjikim.cs@gmail.com">
-<img src=https://img.shields.io/badge/Email-minjikim.cs%40gmail.com-blue?logo=gmail />
+<img src=https://img.shields.io/badge/Email-minjikim.cs%40gmail.com-blue?logo=gmail&labelColor=black />
 </a>                                                                                     
 
-
-- 📫 How to reach me: minjikim.cs@gmail.com
-
-<a href="mailto:minjikim.cs@gmail.com">minjikim.cs@gmail.com</a>
 <!--
 **minji-mia/minji-mia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
