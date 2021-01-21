@@ -14,7 +14,6 @@
 </a>
 
 <br/>
-<br/>
 
 Glad to see you here! I am completing a Master of Science in Computer Science with a graduation date of May 2021. Also, I am developing my Master’s thesis focused on improving network security using deep learning models to identify cyberattacks.
 
@@ -22,7 +21,6 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 
 - ⚡ Fun fact: I love to draw and play boardgames
 
-<br/>
 
 ### 💻 Languages and Tools
 
@@ -41,7 +39,6 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br/>
 <br/>
 
 ### 🌟 Github Status
