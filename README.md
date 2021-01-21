@@ -42,6 +42,6 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 
 <br />
 
-### 🌟 Github Status
+### 🌟 Github Stats
 
 <img src="https://github-readme-stats.minji-mia.vercel.app/api?username=minji-mia&show_icons=true&count_private=true&hide_border=true%22%20align=%22left%22%20style=%22width:%20100%&theme=highcontrast" align="center" style="width: 100%" />
