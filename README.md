@@ -1,4 +1,4 @@
-## Hey 👋, I'm Minji Kim!
+## Hey 👋, I'm Minji Kim! 👩‍💻
 
 <a href="https://www.linkedin.com/in/minji-mia/?locale=en_US" target="_blank">
 <img src=https://img.shields.io/badge/Linkedin-%231E77B5.svg??style=flat&logo=linkedin&logoColor=white%20alt=linkedin%20style=%22margin-bottom:%205px;" />
