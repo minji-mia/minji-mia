@@ -21,7 +21,6 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 
 - ⚡ Fun fact: I love to draw and play boardgames
 
-<br />
 
 ### 💻 Languages and Tools
 
