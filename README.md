@@ -15,7 +15,7 @@
 
 <br/>
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,7 +34,7 @@
 
 <br/>
 
-### 📗 Github Status
+### 🌟 Github Status
 
 <img src="https://github-readme-stats.minji-mia.vercel.app/api?username=minji-mia&show_icons=true&count_private=true&hide_border=true%22%20align=%22left%22%20style=%22width:%20100%&theme=highcontrast" align="center" style="width: 100%" />
 
