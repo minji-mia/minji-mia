@@ -20,7 +20,7 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 
 - 🌱 I’m currently learning everything 🤣
 
-- ⚡ Fun fact: I love to draw and play boardgames
+- ⚡ Fun fact: I love to play boardgames
 
 
 ### 💻 Languages and Tools
