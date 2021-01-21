@@ -14,7 +14,6 @@
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=minji-mia&show_icons=true&count_private=true&hide_border=true%22%20align=%22left%22%20style=%22width:%20100%&theme=highcontrast" align="center" style="width: 100%" />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minji-mia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **minji-mia/minji-mia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
