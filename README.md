@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
 ## Hi there 👋, I'm Minji Kim! 👩‍💻
 
 <a href="https://www.linkedin.com/in/minji-mia/?locale=en_US" target="_blank">
