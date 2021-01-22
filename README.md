@@ -30,9 +30,8 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 
 <table><tr><td valign="top" width="33%">
 
+### Machine Learning 
 
-
-### Machine Learning  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
@@ -44,9 +43,8 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 
 </td><td valign="top" width="33%">
 
-
-
 ### Frontend/Backend  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -68,9 +66,8 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
@@ -84,4 +81,6 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 </td></tr></table>  
 
 ### 🌟 Github Stats
+<div align="center">
 <img src="https://github-readme-stats.minji-mia.vercel.app/api?username=minji-mia&show_icons=true&count_private=true&hide_border=true%22%20align=%22left%22%20style=%22width:%20100%&theme=highcontrast" align="center" style="width: 100%" />
+</div>
