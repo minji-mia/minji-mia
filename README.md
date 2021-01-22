@@ -84,7 +84,12 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 </td></tr></table>  
 
 ### 🌟 Github Stats
+<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.minji-mia.vercel.app/api?username=minji-mia&show_icons=true&count_private=true&hide_border=true%22%20align=%22left%22%20style=%22width:%20100%&theme=highcontrast" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.minji-mia.vercel.app/api?username=minji-mia&show_icons=true&count_private=true&hide_border=true%22%20align=%22left%22%20style=%22width:%20100%&theme=highcontrast" align="left" style="width: 100%" />
 
+</td><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.minji-mia.vercel.app/api/top-langs/?username=minji-mia&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
