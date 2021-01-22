@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/52568892/105445435-8e93b900-5c35-11eb-8e40-20121de78b29.gif" align="center" style="width: 100%" />
-
+<br />
 <a href="https://www.linkedin.com/in/minji-mia/?locale=en_US" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
 </a> 
