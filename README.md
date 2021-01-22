@@ -28,7 +28,7 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 
 ### 💻 My Languages and Tools
 
-<table><tr><td valign="top" width="33%">
+<table border="0"><tr><td valign="top" width="33%">
 
 
 
@@ -84,7 +84,7 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 </td></tr></table>  
 
 ### 🌟 Github Stats
-<table><tr><td valign="top" width="50%">
+<table border="0"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.minji-mia.vercel.app/api?username=minji-mia&show_icons=true&count_private=true&hide_border=true%22%20align=%22left%22%20style=%22width:%20100%&theme=highcontrast" align="left" style="width: 100%" />
 
