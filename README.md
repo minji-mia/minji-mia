@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/52568892/105444595-beda5800-5c33-11eb-89f4-40f047ee9532.gif" align="center" style="width: 100%" />
 </div>  
 
 ## Hi there 👋, I'm Minji Kim! 👩‍💻
