@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/52568892/105444595-beda5800-5c33-11eb-89f4-40f047ee9532.gif" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/52568892/105445435-8e93b900-5c35-11eb-8e40-20121de78b29.gif" align="center" style="width: 100%" />
 </div>  
-
-## Hi there 👋, I'm Minji Kim! 👩‍💻
 
 <a href="https://www.linkedin.com/in/minji-mia/?locale=en_US" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white />
