@@ -11,6 +11,7 @@
 </a>
 <a href="https://public.tableau.com/profile/minji.kim2364#!/" target="_blank">
 <img src=https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white />
+  <br />
 </a>
 <a href="https://minji-mia.com/" target="_blank">
 <img src=https://img.shields.io/badge/Portfolio-minji--mia.com-brightgreen?style=for-the-badge&logoColor=white />
