@@ -31,6 +31,8 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 
 ### 💻 My Languages and Tools
 
+<img src=https://img.shields.io/badge/Certificate-%20Tableau%20Desktop%20Specialist-%23E97627?style=?flat-square&logo=Tableau />
+
 <table><tr><td valign="top" width="33%">
 
 ### Machine Learning 
