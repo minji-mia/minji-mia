@@ -32,7 +32,7 @@ Glad to see you here! I am completing a Master of Science in Computer Science wi
 ### 📖 My Certification
 <div align="left">
   <a href="https://github.com/minji-mia/Tableau/blob/main/Session_263789_Certificate.pdf" target="_blank">
-    <img src=https://img.shields.io/badge/Certificate-%20Tableau%20Desktop%20Specialist-%23E97627?style=?for-the-badge&logo=Tableau />
+    <img src=https://img.shields.io/badge/Certificate-%20Tableau%20Desktop%20Specialist-%23E97627?style=flat-square&logo=Tableau />
   </a>
 </div>
 
